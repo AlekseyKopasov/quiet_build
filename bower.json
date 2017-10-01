@@ -1,0 +1,8 @@
+{
+  "name": "quiet_build",
+  "version": "0.1.0",
+  "dependencies": {
+    "jquery": "1.12.3",
+    "normalize-css": "normalize.css#^7.0.0"
+  }
+}
